@@ -1,2 +1,2 @@
 # Cosmology-Assignment
-Cosmology assignemnts
+Cosmology assignments
